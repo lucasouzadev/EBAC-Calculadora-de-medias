@@ -1,3 +1,5 @@
+# 📊 Calculadora de Médias EBAC
+
 ## ✨ Funcionalidades
 - Adição de disciplinas e notas
 - Cálculo automático de média
